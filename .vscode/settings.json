@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/dzx/下载/test",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}

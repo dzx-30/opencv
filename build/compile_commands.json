@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/home/dzx/下载/test/build",
+  "command": "/usr/bin/c++   -I../. -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/main.dir/src/main.cpp.o -c /home/dzx/下载/test/src/main.cpp",
+  "file": "/home/dzx/下载/test/src/main.cpp"
+},
+
+{
+  "directory": "/home/dzx/下载/test/build",
+  "command": "/usr/bin/c++   -I../. -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/main.dir/src/OpenCV.cpp.o -c /home/dzx/下载/test/src/OpenCV.cpp",
+  "file": "/home/dzx/下载/test/src/OpenCV.cpp"
+},
+
+{
+  "directory": "/home/dzx/下载/test/build",
+  "command": "/usr/bin/c++   -I../. -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/main.dir/src/test.cpp.o -c /home/dzx/下载/test/src/test.cpp",
+  "file": "/home/dzx/下载/test/src/test.cpp"
+}
+]
